@@ -27,6 +27,7 @@ img{
     text-decoration: none;
     
 }
+
 footer {
     background-color: #70A7D8;
     color: #ffff;
@@ -37,6 +38,7 @@ footer {
     text-align: center;
     width: 100%;
 }
+
 i{
     display: table-cell;
     vertical-align: middle;
